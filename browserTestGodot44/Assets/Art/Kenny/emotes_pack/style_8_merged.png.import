@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bwpdl0slv3pmj"
-path="res://.godot/imported/Sample.png-ee9194b019d5d01100d0524f7c1076b8.ctex"
+uid="uid://djg8sduptf1lf"
+path="res://.godot/imported/style_8_merged.png-393ef96160da70b5712147655ade96ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Art/kenney_pirate-pack/Sample.png"
-dest_files=["res://.godot/imported/Sample.png-ee9194b019d5d01100d0524f7c1076b8.ctex"]
+source_file="res://Assets/Art/Kenny/emotes_pack/style_8_merged.png"
+dest_files=["res://.godot/imported/style_8_merged.png-393ef96160da70b5712147655ade96ad.ctex"]
 
 [params]
 

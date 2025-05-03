@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c8h2c8wkqysta"
-path="res://.godot/imported/Preview.png-fccf365bef16b0e2370a29efeb7f064e.ctex"
+uid="uid://crvve84e5dv6v"
+path="res://.godot/imported/style_1_merged.png-07d42d6048afd7ad5db3eacc96ed3141.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Art/kenney_roguelike-characters/Preview.png"
-dest_files=["res://.godot/imported/Preview.png-fccf365bef16b0e2370a29efeb7f064e.ctex"]
+source_file="res://Assets/Art/Kenny/emotes_pack/style_1_merged.png"
+dest_files=["res://.godot/imported/style_1_merged.png-07d42d6048afd7ad5db3eacc96ed3141.ctex"]
 
 [params]
 

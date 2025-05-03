@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dibbn36mhn0pm"
-path="res://.godot/imported/preview.png-9b0c060e99d9012ff38aed65277ccc69.ctex"
+uid="uid://7yal02i0n3l8"
+path="res://.godot/imported/style_6_merged.png-07270d0d7ba7076ba099ed4801922b0a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Art/kenney_rpg-base/preview.png"
-dest_files=["res://.godot/imported/preview.png-9b0c060e99d9012ff38aed65277ccc69.ctex"]
+source_file="res://Assets/Art/Kenny/emotes_pack/style_6_merged.png"
+dest_files=["res://.godot/imported/style_6_merged.png-07270d0d7ba7076ba099ed4801922b0a.ctex"]
 
 [params]
 

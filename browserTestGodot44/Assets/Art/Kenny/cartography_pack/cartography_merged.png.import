@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://081yhljgfudp"
-path="res://.godot/imported/Sample1.png-cf126fbfab0a724d2c0090ad0490923d.ctex"
+uid="uid://cqvxwubu0qinp"
+path="res://.godot/imported/cartography_merged.png-a41c9746aa1c4d2a6af8be4b441bc543.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Art/kenney_roguelike-rpg-pack/Sample1.png"
-dest_files=["res://.godot/imported/Sample1.png-cf126fbfab0a724d2c0090ad0490923d.ctex"]
+source_file="res://Assets/Art/Kenny/cartography_pack/cartography_merged.png"
+dest_files=["res://.godot/imported/cartography_merged.png-a41c9746aa1c4d2a6af8be4b441bc543.ctex"]
 
 [params]
 

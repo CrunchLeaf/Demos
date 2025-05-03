@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c7pgmpcavujlr"
-path="res://.godot/imported/Preview.png-a591cc443f94fc547340a2a427c52844.ctex"
+uid="uid://dkcfnnmcyiskj"
+path="res://.godot/imported/style_4_merged.png-10543065783b7f2eac02fa04c2d7ac20.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Art/kenney_medieval-rts/Preview.png"
-dest_files=["res://.godot/imported/Preview.png-a591cc443f94fc547340a2a427c52844.ctex"]
+source_file="res://Assets/Art/Kenny/emotes_pack/style_4_merged.png"
+dest_files=["res://.godot/imported/style_4_merged.png-10543065783b7f2eac02fa04c2d7ac20.ctex"]
 
 [params]
 

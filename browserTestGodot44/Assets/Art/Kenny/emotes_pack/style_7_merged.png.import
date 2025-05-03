@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://df0r8u5wyqc3o"
-path="res://.godot/imported/Preview.png-1327de940c5f91fc0de1f610eb05fe88.ctex"
+uid="uid://bbd7towmm5a1h"
+path="res://.godot/imported/style_7_merged.png-ea55191f9d7a27688e372abf37d5b04d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Art/kenney_roguelike-caves-dungeons/Preview.png"
-dest_files=["res://.godot/imported/Preview.png-1327de940c5f91fc0de1f610eb05fe88.ctex"]
+source_file="res://Assets/Art/Kenny/emotes_pack/style_7_merged.png"
+dest_files=["res://.godot/imported/style_7_merged.png-ea55191f9d7a27688e372abf37d5b04d.ctex"]
 
 [params]
 

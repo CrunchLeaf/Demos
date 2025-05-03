@@ -1,0 +1,35 @@
+[gd_scene load_steps=6 format=3 uid="uid://b5vmtvcg08bwc"]
+
+[ext_resource type="Texture2D" uid="uid://blqx4ckfi2hu6" path="res://Assets/Art/Kenny/medieval_rts/Unit/medievalUnit_01.png" id="1_odk2v"]
+[ext_resource type="Script" uid="uid://crpwt4y6wb1il" path="res://Srcs/Templates/medieval_rts_unit.gd" id="2_3nxbq"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_odk2v"]
+size = Vector2(20, 26)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_3nxbq"]
+size = Vector2(8, 24)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_h5lob"]
+size = Vector2(9, 26)
+
+[node name="Medieval_RTS_Unit" type="StaticBody2D"]
+script = ExtResource("2_3nxbq")
+metadata/_edit_group_ = true
+
+[node name="SpriteTexture" type="Sprite2D" parent="."]
+position = Vector2(0, -12)
+texture = ExtResource("1_odk2v")
+
+[node name="ActionBox" type="CollisionShape2D" parent="."]
+position = Vector2(0, -13)
+shape = SubResource("RectangleShape2D_odk2v")
+debug_color = Color(0, 1, 0, 0.419608)
+
+[node name="HitBox" type="CollisionShape2D" parent="."]
+position = Vector2(-2, -12)
+shape = SubResource("RectangleShape2D_3nxbq")
+
+[node name="HurtBox" type="CollisionShape2D" parent="."]
+position = Vector2(6.5, -13)
+shape = SubResource("RectangleShape2D_h5lob")
+debug_color = Color(1, 0, 0, 0.419608)

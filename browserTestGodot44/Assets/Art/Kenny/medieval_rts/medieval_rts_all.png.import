@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dw06horr8cry"
-path="res://.godot/imported/Preview.png-763d0138cf3f44391ac75a600a1571af.ctex"
+uid="uid://bj54am3i5mfnd"
+path="res://.godot/imported/medieval_rts_all.png-a38dd567318a93889b5da830c111dd9b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Art/kenney_roguelike-rpg-pack/Preview.png"
-dest_files=["res://.godot/imported/Preview.png-763d0138cf3f44391ac75a600a1571af.ctex"]
+source_file="res://Assets/Art/Kenny/medieval_rts/medieval_rts_all.png"
+dest_files=["res://.godot/imported/medieval_rts_all.png-a38dd567318a93889b5da830c111dd9b.ctex"]
 
 [params]
 
